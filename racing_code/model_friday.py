@@ -1,7 +1,4 @@
 def reward_function(params):
-    '''
-    Example of rewarding the agent to follow center line
-    '''
     reward = 1e-3
 
     # Read input parameters
