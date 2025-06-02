@@ -34,8 +34,8 @@ OpenAI Gym 기반 강화학습 실습 프로젝트로,
 ### `DeepRacer`
 
 - AWS DeppRacer 강화학습 코드
-- out-in-out 방식을 통한 코너링 최적화
+- out-in-out 방식을 적용해 코너링 최적화
 
-![deepracer](https://github.com/user-attachments/assets/cedd4140-4c7a-42f0-8064-a1925ce23ae5)
+<img src="https://github.com/user-attachments/assets/cedd4140-4c7a-42f0-8064-a1925ce23ae5" width="40%" alt="DeepRacer 주행 화면" />
 
 - AWS 가상 트랙에서의 주행 화면
