@@ -21,6 +21,7 @@
 | track_width              | 트랙의 너비 (float, 단위: m) |
 | waypoints                | 트랙의 모든 웨이포인트 좌표 (리스트, [x, y] 형식) |
 <br>
+
 # 하이퍼파라미터 (Hyperparameters)
 
 | **파라미터 이름**             | **설명** |
